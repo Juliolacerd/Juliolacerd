@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Júlio 👋
 
-<!--
-**Juliolacerd/Juliolacerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Computação no **IFCE** e desenvolvedor focado em back-end, Web3 e IoT. Transformando ideias em código, desde automação residencial até contratos inteligentes.
 
-Here are some ideas to get you started:
+### 🚀 O que estou construindo no momento
+* **Escrow-Blockchain:** Aplicação open-source de escrow utilizando contratos inteligentes (Solidity, Foundry, Go, PostgreSQL, Docker).
+* **Despensa Inteligente IoT:** Sistema de leitura de código de barras e QR code com ESP32-S3-CAM, display OLED, MQTT e Python (Flask).
+* **JUTHY:** PWA full-stack para acompanhamento de saúde, dieta e treinos (FastAPI).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minha Stack e Ferramentas
+* **Linguagens:** Python, Solidity, JavaScript, C/C++ (Embarcados)
+* **Blockchain:** Foundry (Forge, Anvil, Cast)
+* **Infra & SO:** Docker, Docker Compose, Linux (Fedora e Debian/Armbian para servidores caseiros)
+* **IoT & Hardware:** ESP32, MQTT
+
+### 📊 Meus Status no GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
+</div>
