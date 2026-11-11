@@ -12,9 +12,8 @@ Estudante de Engenharia de Computação no **IFCE** e desenvolvedor focado em ba
 * **Blockchain:** Foundry (Forge, Anvil, Cast)
 * **Infra & SO:** Docker, Docker Compose, Linux (Fedora e Debian/Armbian para servidores caseiros)
 * **IoT & Hardware:** ESP32, MQTT
-
+* 
 ### 📊 Meus Status no GitHub
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Juliolacerd&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliolacerd&layout=compact&langs_count=7&theme=radical" alt="Top Linguagens" />
-</p>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Juliolacerd&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliolacerd&layout=compact&langs_count=7&theme=radical)
